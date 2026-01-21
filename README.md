@@ -10,10 +10,11 @@
 **Tools & Architecture:** Git | GitHub | Cubit | Bloc | Riverpod | Clean Architecture | OOP | Design Patterns | SOLID  
 **Concepts & Others:** RESTful APIs | SQL | JSON Parsing | Data Structures | Algorithms | Responsive UI | Adaptive UI | English | Arabic
 
-## 📫 Contact
+📫 **Contact Me**
 
-- **Phone:** 01011088624  
-- **Email:** [mohamedahmed21102003@gmail.com](mailto:mohamedahmed21102003@gmail.com)  
-- **LinkedIn:** [Mohamed El-Oraby](https://linkedin.com/in/mohamed-eloraby-38607730b)  
-- **Facebook:** [Profile](https://www.facebook.com/share/1L5hgFqCWg/?mibextid=wwXIfr)  
-- **Codeforces:** [oraby2110](https://codeforces.com/profile/oraby2110)
+📞 Phone: 01011088624  
+✉️ Email: mohamedahmed21102003@gmail.com  
+🔗 LinkedIn: [Mohamed El-Oraby](https://www.linkedin.com/in/your-linkedin)  
+📘 Facebook: [Profile](https://www.facebook.com/your-profile)  
+💻 Codeforces: [oraby2110](https://codeforces.com/profile/oraby2110)
+
